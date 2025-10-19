@@ -15,7 +15,7 @@ os.makedirs(MODELS_DIR, exist_ok=True)
 
 # ----------------- Crop Recommendation -----------------
 def train_crop_model():
-    df = pd.read_csv(os.path.join(DATA_DIR, 'crop_data.csv'))
+    df = pd.read_csv(os.path.join(DATA_DIR, 'Crop_recommendation.csv'))
     numeric = ['N','P','K','temperature','humidity','ph','rainfall']
     categorical = []
     X = df[numeric + categorical]
@@ -34,7 +34,7 @@ def train_crop_model():
 
 # ----------------- Yield Prediction -----------------
 def train_yield_model():
-    df = pd.read_csv(os.path.join(DATA_DIR, 'yield_data.csv'))
+    df = pd.read_csv(os.path.join(DATA_DIR, 'crop_yielddata.csv'))
     numeric = ['Area', 'Annual_Rainfall', 'Fertilizer', 'Pesticide']  # adjust based on your CSV
     categorical = ['Crop', 'Season', 'State']  # optional one-hot
     X = df[numeric + categorical]

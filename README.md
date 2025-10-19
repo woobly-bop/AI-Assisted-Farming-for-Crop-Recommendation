@@ -2,7 +2,11 @@
 
 ## 📹 Demo Video
 
-[Add video link here]
+<p align="center">
+  <a href="https://drive.google.com/file/d/1RZZ6fHhO3pxtRSqvruOcuiy2uNCTfZrC/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-blue?style=for-the-badge" alt="Watch Demo">
+  </a>
+</p>
 
 An intelligent farming assistant that leverages machine learning to provide data-driven crop recommendations and yield predictions, helping farmers optimize their agricultural practices for better productivity and sustainability.
 
