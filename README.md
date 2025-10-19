@@ -1,5 +1,9 @@
 # 🌾 AI-Assisted Farming for Crop Recommendation
 
+## 📹 Demo Video
+
+[Add video link here]
+
 An intelligent farming assistant that leverages machine learning to provide data-driven crop recommendations and yield predictions, helping farmers optimize their agricultural practices for better productivity and sustainability.
 
 ## 🚀 Features
