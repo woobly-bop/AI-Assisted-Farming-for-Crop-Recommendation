@@ -1,4 +1,4 @@
-# 🌾 AI-Assisted Farming for Crop Recommendation
+# 🌾 AI-Assisted Farming for Crop Recommendation and Yield Prediction
 
 ## 📹 Demo Video
 
